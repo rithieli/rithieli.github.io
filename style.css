@@ -1,0 +1,23 @@
+body {
+    background: #f1e3d3;
+}
+
+#minhafoto { 
+    width: 231px;
+    height: 308px;
+}
+
+h1 {
+ text-align: center; color: #48a9a6;
+}
+
+p {
+    text-align: center;
+
+}
+
+#objetivo {
+    font-size: 20px
+}
+
+ /* #48a9a6  f1e3d3 #c1666b */
